@@ -233,6 +233,29 @@
         }
       }
     },
+    "/cartasJugador/{id}": {
+      "get": {
+        "tags": [
+          "Move"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Move": {
       "get": {
         "tags": [
@@ -594,17 +617,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/MoveDto"
+                "$ref": "#/components/schemas/RoundDto"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/MoveDto"
+                "$ref": "#/components/schemas/RoundDto"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/MoveDto"
+                "$ref": "#/components/schemas/RoundDto"
               }
             }
           }
@@ -623,17 +646,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/MoveDto"
+                "$ref": "#/components/schemas/RoundDto"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/MoveDto"
+                "$ref": "#/components/schemas/RoundDto"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/MoveDto"
+                "$ref": "#/components/schemas/RoundDto"
               }
             }
           }
@@ -931,6 +954,28 @@
           "end": {
             "type": "string",
             "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "RoundDto": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "number": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "end": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "roomId": {
+            "type": "integer",
+            "format": "int32"
           }
         },
         "additionalProperties": false

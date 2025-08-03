@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Business</id>
+    <version>1.0.0</version>
+    <authors>Business</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="97633f02c796903dcf39cbf9ce666ef601ccf9ca" />
+    <dependencies>
+      <group targetFramework="net9.0">
+        <dependency id="Data" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Entity" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Utilities" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Juan Manuel\Desktop\proyectoCartas\Backend\CardCombat\Business\bin\Debug\net9.0\Business.dll" target="lib\net9.0\Business.dll" />
+  </files>
+</package>

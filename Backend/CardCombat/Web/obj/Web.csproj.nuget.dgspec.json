@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aprendiz\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Web\\Web.csproj": {}
+    "C:\\Users\\Juan Manuel\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Web\\Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aprendiz\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Business\\Business.csproj": {
+    "C:\\Users\\Juan Manuel\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aprendiz\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\Juan Manuel\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\Aprendiz\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Business\\Business.csproj",
-        "packagesPath": "C:\\Users\\Aprendiz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aprendiz\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Business\\obj\\",
+        "projectPath": "C:\\Users\\Juan Manuel\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Business\\Business.csproj",
+        "packagesPath": "C:\\Users\\Juan Manuel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Juan Manuel\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Aprendiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Juan Manuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,14 +32,14 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Aprendiz\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Data\\Data.csproj": {
-                "projectPath": "C:\\Users\\Aprendiz\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Data\\Data.csproj"
+              "C:\\Users\\Juan Manuel\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\Juan Manuel\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Data\\Data.csproj"
               },
-              "C:\\Users\\Aprendiz\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Entity\\Entity.csproj": {
-                "projectPath": "C:\\Users\\Aprendiz\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Entity\\Entity.csproj"
+              "C:\\Users\\Juan Manuel\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\Users\\Juan Manuel\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Entity\\Entity.csproj"
               },
-              "C:\\Users\\Aprendiz\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Utilities\\Utilities.csproj": {
-                "projectPath": "C:\\Users\\Aprendiz\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Utilities\\Utilities.csproj"
+              "C:\\Users\\Juan Manuel\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Utilities\\Utilities.csproj": {
+                "projectPath": "C:\\Users\\Juan Manuel\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Utilities\\Utilities.csproj"
               }
             }
           }
@@ -75,24 +75,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Aprendiz\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Data\\Data.csproj": {
+    "C:\\Users\\Juan Manuel\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aprendiz\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Data\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\Juan Manuel\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\Aprendiz\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Data\\Data.csproj",
-        "packagesPath": "C:\\Users\\Aprendiz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aprendiz\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Data\\obj\\",
+        "projectPath": "C:\\Users\\Juan Manuel\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Data\\Data.csproj",
+        "packagesPath": "C:\\Users\\Juan Manuel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Juan Manuel\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Aprendiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Juan Manuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -107,8 +107,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Aprendiz\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Entity\\Entity.csproj": {
-                "projectPath": "C:\\Users\\Aprendiz\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Entity\\Entity.csproj"
+              "C:\\Users\\Juan Manuel\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\Users\\Juan Manuel\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Entity\\Entity.csproj"
               }
             }
           }
@@ -144,24 +144,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Aprendiz\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Entity\\Entity.csproj": {
+    "C:\\Users\\Juan Manuel\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Entity\\Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aprendiz\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Entity\\Entity.csproj",
+        "projectUniqueName": "C:\\Users\\Juan Manuel\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Entity\\Entity.csproj",
         "projectName": "Entity",
-        "projectPath": "C:\\Users\\Aprendiz\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Entity\\Entity.csproj",
-        "packagesPath": "C:\\Users\\Aprendiz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aprendiz\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Entity\\obj\\",
+        "projectPath": "C:\\Users\\Juan Manuel\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Entity\\Entity.csproj",
+        "packagesPath": "C:\\Users\\Juan Manuel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Juan Manuel\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Aprendiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Juan Manuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -225,24 +225,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Aprendiz\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Utilities\\Utilities.csproj": {
+    "C:\\Users\\Juan Manuel\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Utilities\\Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aprendiz\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Utilities\\Utilities.csproj",
+        "projectUniqueName": "C:\\Users\\Juan Manuel\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Utilities\\Utilities.csproj",
         "projectName": "Utilities",
-        "projectPath": "C:\\Users\\Aprendiz\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Utilities\\Utilities.csproj",
-        "packagesPath": "C:\\Users\\Aprendiz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aprendiz\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Utilities\\obj\\",
+        "projectPath": "C:\\Users\\Juan Manuel\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Utilities\\Utilities.csproj",
+        "packagesPath": "C:\\Users\\Juan Manuel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Juan Manuel\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Aprendiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Juan Manuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -257,8 +257,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Aprendiz\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Entity\\Entity.csproj": {
-                "projectPath": "C:\\Users\\Aprendiz\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Entity\\Entity.csproj"
+              "C:\\Users\\Juan Manuel\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\Users\\Juan Manuel\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Entity\\Entity.csproj"
               }
             }
           }
@@ -308,24 +308,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Aprendiz\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Web\\Web.csproj": {
+    "C:\\Users\\Juan Manuel\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Web\\Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aprendiz\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Web\\Web.csproj",
+        "projectUniqueName": "C:\\Users\\Juan Manuel\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Web\\Web.csproj",
         "projectName": "Web",
-        "projectPath": "C:\\Users\\Aprendiz\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Web\\Web.csproj",
-        "packagesPath": "C:\\Users\\Aprendiz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aprendiz\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Web\\obj\\",
+        "projectPath": "C:\\Users\\Juan Manuel\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Web\\Web.csproj",
+        "packagesPath": "C:\\Users\\Juan Manuel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Juan Manuel\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Aprendiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Juan Manuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -340,8 +340,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Aprendiz\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Business\\Business.csproj": {
-                "projectPath": "C:\\Users\\Aprendiz\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Business\\Business.csproj"
+              "C:\\Users\\Juan Manuel\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\Juan Manuel\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Business\\Business.csproj"
               }
             }
           }
@@ -396,7 +396,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

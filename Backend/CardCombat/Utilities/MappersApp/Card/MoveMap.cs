@@ -9,6 +9,10 @@ namespace Utilities.MappersApp.Card
         public MoveMap()
         {
             CreateMap<Move, MoveDto>().ReverseMap();
+
+            CreateMap<Move, MoveDtoQuery>()
+                .ForMember(dest => dest.PlayerName, opt => opt.MapFrom(src => src.Player.Name))
+                .ForMember(dest => dest.CardName, opt => opt.MapFrom(src => src.Card.Name));
         }
     }
 }

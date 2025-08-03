@@ -1,5 +1,3 @@
-using Business.Interfaces;
-using Business.Interfaces.Commands;
 using Business.Interfaces.Querys;
 using Entity.Dtos.Global;
 using Entity.Model.Global;

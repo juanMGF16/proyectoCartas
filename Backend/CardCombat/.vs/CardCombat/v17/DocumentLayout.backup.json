@@ -1,12 +1,105 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Aprendiz\\Desktop\\proyectoCartas\\Backend\\CardCombat\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Juan Manuel\\Desktop\\proyectoCartas\\Backend\\CardCombat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B8ABB8F-E4E8-4400-8F0F-82A2AD03580A}|Web\\Web.csproj|c:\\users\\juan manuel\\desktop\\proyectocartas\\backend\\cardcombat\\web\\extendes\\addinjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B8ABB8F-E4E8-4400-8F0F-82A2AD03580A}|Web\\Web.csproj|solutionrelative:web\\extendes\\addinjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B8ABB8F-E4E8-4400-8F0F-82A2AD03580A}|Web\\Web.csproj|c:\\users\\juan manuel\\desktop\\proyectocartas\\backend\\cardcombat\\web\\controllers\\implements\\card\\movecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B8ABB8F-E4E8-4400-8F0F-82A2AD03580A}|Web\\Web.csproj|solutionrelative:web\\controllers\\implements\\card\\movecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B8ABB8F-E4E8-4400-8F0F-82A2AD03580A}|Web\\Web.csproj|c:\\users\\juan manuel\\desktop\\proyectocartas\\backend\\cardcombat\\web\\controllers\\implements\\card\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B8ABB8F-E4E8-4400-8F0F-82A2AD03580A}|Web\\Web.csproj|solutionrelative:web\\controllers\\implements\\card\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B8ABB8F-E4E8-4400-8F0F-82A2AD03580A}|Web\\Web.csproj|c:\\users\\juan manuel\\desktop\\proyectocartas\\backend\\cardcombat\\web\\controllers\\implements\\card\\mazoplayercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B8ABB8F-E4E8-4400-8F0F-82A2AD03580A}|Web\\Web.csproj|solutionrelative:web\\controllers\\implements\\card\\mazoplayercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77EC43E3-6938-436F-92DF-61C75C902B29}|Data\\Data.csproj|c:\\users\\juan manuel\\desktop\\proyectocartas\\backend\\cardcombat\\data\\implements\\cqrs\\card\\movedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77EC43E3-6938-436F-92DF-61C75C902B29}|Data\\Data.csproj|solutionrelative:data\\implements\\cqrs\\card\\movedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddInjectController.cs",
+              "DocumentMoniker": "C:\\Users\\Juan Manuel\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Web\\Extendes\\AddInjectController.cs",
+              "RelativeDocumentMoniker": "Web\\Extendes\\AddInjectController.cs",
+              "ToolTip": "C:\\Users\\Juan Manuel\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Web\\Extendes\\AddInjectController.cs",
+              "RelativeToolTip": "Web\\Extendes\\AddInjectController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwEAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T03:52:42.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoveController.cs",
+              "DocumentMoniker": "C:\\Users\\Juan Manuel\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Web\\Controllers\\Implements\\Card\\MoveController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\Implements\\Card\\MoveController.cs",
+              "ToolTip": "C:\\Users\\Juan Manuel\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Web\\Controllers\\Implements\\Card\\MoveController.cs",
+              "RelativeToolTip": "Web\\Controllers\\Implements\\Card\\MoveController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T03:50:05.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\Juan Manuel\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Web\\Controllers\\Implements\\Card\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\Implements\\Card\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\Juan Manuel\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Web\\Controllers\\Implements\\Card\\PlayerController.cs",
+              "RelativeToolTip": "Web\\Controllers\\Implements\\Card\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T03:50:07.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MazoPlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\Juan Manuel\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Web\\Controllers\\Implements\\Card\\MazoPlayerController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\Implements\\Card\\MazoPlayerController.cs",
+              "ToolTip": "C:\\Users\\Juan Manuel\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Web\\Controllers\\Implements\\Card\\MazoPlayerController.cs",
+              "RelativeToolTip": "Web\\Controllers\\Implements\\Card\\MazoPlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T03:50:05.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MoveData.cs",
+              "DocumentMoniker": "C:\\Users\\Juan Manuel\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Data\\Implements\\CQRS\\Card\\MoveData.cs",
+              "RelativeDocumentMoniker": "Data\\Implements\\CQRS\\Card\\MoveData.cs",
+              "ToolTip": "C:\\Users\\Juan Manuel\\Desktop\\proyectoCartas\\Backend\\CardCombat\\Data\\Implements\\CQRS\\Card\\MoveData.cs",
+              "RelativeToolTip": "Data\\Implements\\CQRS\\Card\\MoveData.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T03:49:01.715Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
